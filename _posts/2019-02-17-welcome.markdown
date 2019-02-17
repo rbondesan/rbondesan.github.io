@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2019-02-17 14:01:31 +0100
+categories: welcome
+---
+
+See [About]({{ site.baseurl }}{% link about.md %}) for a short bio and [List of publications]({{ site.baseurl }}{% link publi.md %}) for the papers I've published.
+You can find some of the code used to produce those papers on [my github][my-gh].
+
+[my-gh]:   https://github.com/rbondesan
