@@ -4,6 +4,9 @@ title: List of publications
 permalink: /publications/
 ---
 
+* R. Bondesan, and A. Lamacraft
+    *Learning Symmetries of Classical Integrable Systems*,
+      Presented at the ICML 2019 Workshop on Theoretical Physics for Deep Learning.
 * R. Fern, R. Bondesan, and S. H. Simon
     *Effective Edge State Dynamics in the Fractional Quantum Hall Effect,*
       Phys. Rev. B **98**, 155321 (2018).
