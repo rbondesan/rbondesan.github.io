@@ -2,10 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: 
 nav: true
 nav_order: 4
 ---
+
+See the [GitHub repos of the Quantum AI Lab at ICL](https://github.com/Quantum-AI-Lab-ICL) for the codes developed by my team
 
 ## GitHub users
 

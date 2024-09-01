@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - name of user...
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Quantum-AI-Lab-ICL/Efficient-Learning-Long-Range-QS
+  - Quantum-AI-Lab-ICL/Quantum-Belief-Propagation
+  - Quantum-AI-Lab-ICL/QAOA-SAT
+  - mathisgerdes/continuous-flow-lft
