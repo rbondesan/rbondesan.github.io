@@ -13,4 +13,4 @@ Boolean Satisfiability](https://www.imperial.ac.uk/media/imperial-college/facult
 - Jian Zhao: [Quantum Belief Propagation](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/2324-ug-projects/Zhao,-Jian-Quantum-Belief-Propagation.pdf)
 - Aaraf Hossain: [Reinforcement Learning for Cluster Monte Carlo](/assets/pdf/aaraf.pdf)
 - Manjusri Khandelwal: Neural Wavefunctions for Random Quantum Systems
-- Vladimir Volgin: Bayesian Optimisation on Graphs for Molecule Discovery
+- Vladimir Volgin: [Bayesian Optimisation on Graphs for Molecule Discovery](/assets/pdf/vlad.pdf)
