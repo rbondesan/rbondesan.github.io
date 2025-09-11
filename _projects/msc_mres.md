@@ -12,4 +12,3 @@ giscus_comments: false
 - Nicole Farah: Deep Reinforcement Learning using Graph Neural Networks for Quantum Compilation
 - Sunny Wong: 
 - George Hilton: 
-- Saida Ahmach: 
